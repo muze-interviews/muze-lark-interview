@@ -5,8 +5,6 @@ import logging
 
 from .test_trees import TestTrees
 
-from .test_nearley.test_nearley import TestNearley
-
 # from .test_selectors import TestSelectors
 # from .test_grammars import TestPythonG, TestConfigG
 
