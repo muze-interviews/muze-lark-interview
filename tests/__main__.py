@@ -20,6 +20,9 @@ from .test_parser import (
 
         TestParsers,
         )
+from .test_comments import (
+        TestParserComments,
+        )
 
 logging.basicConfig(level=logging.INFO)
 
